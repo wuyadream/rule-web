@@ -1,1 +1,1 @@
-## 基于angularjs和jsplumb的一个流程图web应用
+## 一个基于angularjs和jsplumb的流程图web应用
